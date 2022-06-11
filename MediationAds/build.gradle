@@ -42,7 +42,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.savinduonline'
-                artifactId = 'Adsmediation'
+                artifactId = 'MediationAds'
                 version = '1.0.0'
 
             }
